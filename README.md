@@ -1,16 +1,6 @@
-# task_management_app
+# Task Scheduling Application
 
-A new Flutter project.
+This project aims to develop a user-friendly Task Scheduling Application. Our goal is to provide a digital platform for University Students to manage their tasks, and plan and schedule events and deadlines as a chance to enhance productivity, reduce stress, and improve time management skills. 
 
-## Getting Started
+Alongside creating an intuitive user interface and incorporating essential features such as Eisenhower Matrix integration, task management, reminders, and progress tracking, we aim to implement various software testing techniques to ensure the application's usability, performance, reliability, security, and maintainability.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
